@@ -1,0 +1,4 @@
+# MyFileDeleteTest
+一个在SD卡上实现LruCache的使用demo，加深自己对lrucache的理解！
+
+具体参考DiskLruCache
